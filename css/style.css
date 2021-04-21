@@ -358,6 +358,7 @@ nav{
     .our-portfolio{
         min-height: 1340px;
         background-color: white;
+        margin: 0 auto ;
     }
 
     .our-portfolio .portfolio-container{
@@ -392,8 +393,9 @@ nav{
     }
 
     .our-portfolio .portfolio-container .portfolio-galery{
-        margin-top: 175px;
+        margin: 175px auto;
         text-align: center;
+        max-width: 1300px;
     }
 
     .our-portfolio .portfolio-container .portfolio-galery .portfolio-img{
